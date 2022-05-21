@@ -1,0 +1,16 @@
+---
+useful_tools:
+- vim
+- htop
+- tree
+- dnsutils
+- dos2unix
+- unzip
+- wget
+- curl
+- net-tools
+- mlocate
+- apt-transport-https
+- lsb-release
+- curl
+- gnupg
